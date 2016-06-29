@@ -1,0 +1,16 @@
+{
+    "name": "mjbernha/composer-wordpress-cloud9",
+    "description": "Building out a Wordpress network for local development",
+    "type": "project",
+    "require": {
+        "johnpbloch/wordpress": "4.4",
+        "php": "5.3"
+    },
+    "license": "GPL-v3",
+    "authors": [
+        {
+            "name": "Matt Bernhardt",
+            "email": "mjbernha@mit.edu"
+        }
+    ]
+}
