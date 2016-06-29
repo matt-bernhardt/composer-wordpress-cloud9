@@ -4,7 +4,10 @@
     "type": "project",
     "require": {
         "johnpbloch/wordpress": "4.4",
-        "php": "5.3"
+        "php": "5.5.9"
+    },
+    "extra": {
+        "wordpress-install-dir": "wp"
     },
     "license": "GPL-v3",
     "authors": [
